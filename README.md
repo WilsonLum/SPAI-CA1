@@ -10,7 +10,7 @@ One of the reasons that the shipwreck led to such loss of life was that there we
 Complete the analysis of what sorts of people were likely to survive. In particular, we ask you to apply the tools of machine learning to predict which passengers survived the tragedy.
 
 ### Dataset
-You are to use the dataset.
+Use the dataset.
 https://www.kaggle.com/c/titanic/data
 
 ## PART B: REGRESSION 
@@ -23,5 +23,5 @@ Full article can be downloaded at:
 http://www.math-evry.cnrs.fr/_media/members/aguilloux/enseignements/m1mint/moro2016.pdf
 
 ### Dataset
-You are to use the dataset.
+Use the dataset.
 https://archive.ics.uci.edu/ml/datasets/Facebook+metrics 

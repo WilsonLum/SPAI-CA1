@@ -1,5 +1,5 @@
 # SPAI-CA1
- SP AI COurse CA1 Project
+ SP AI Course CA1 Project
 
 ## PART A: CLASSIFICATION 
 ### Background
@@ -12,3 +12,16 @@ Complete the analysis of what sorts of people were likely to survive. In particu
 ### Dataset
 You are to use the dataset.
 https://www.kaggle.com/c/titanic/data
+
+## PART B: REGRESSION 
+### Background
+The data is related to posts published during the year of 2014 on the Facebook's page of a renowned cosmetics brand. This dataset contains 500 of the 790 rows and part of the features analyzed by Moro et al. (2016).
+
+This study presents a research approach using datamining for predicting the performance metrics of posts published in brands' Facebook pages. Twelve posts' performance metrics extracted from a cosmetic company's page including 790 publications were modelled, with the two best results achieving a mean absolute percentage error of around 27%.
+
+Full article can be downloaded at:
+http://www.math-evry.cnrs.fr/_media/members/aguilloux/enseignements/m1mint/moro2016.pdf
+
+### Dataset
+You are to use the dataset.
+https://archive.ics.uci.edu/ml/datasets/Facebook+metrics 
